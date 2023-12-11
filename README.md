@@ -62,6 +62,7 @@ o Magnetic removable door – 24 12x3mm magnets
 
 ![Chaos Theory 250](https://github.com/the0ry/Chaos-Theory/assets/17616022/100e6d37-e0b1-478f-9e50-5da0c38921a7)
 
+![IS Graphs](https://github.com/the0ry/Chaos-Theory/assets/17616022/82c7726a-7d97-4716-a818-34c7b0a39af6)
 
 This project is licensed as:
 ![license](https://github.com/the0ry/Chaos-Theory/assets/17616022/495e63a6-cbae-447d-8219-15221d0686e5)
