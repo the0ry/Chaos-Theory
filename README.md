@@ -1,6 +1,6 @@
 # Chaos-Theory
 The official release of the Chaos Theory 3d printer.
-In partnership with Sparta3D.ca.
+In partnership with [Sparta3D](https://www.sparta3d.ca).
 
 Cartesian AWD cube frame 3D Printer
 
