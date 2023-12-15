@@ -60,7 +60,8 @@ o 3mm Acrylic and ABS Panels
 
 o Magnetic removable door – 24 12x3mm magnets
 
-![Chaos Theory 250](https://github.com/the0ry/Chaos-Theory/assets/17616022/100e6d37-e0b1-478f-9e50-5da0c38921a7)
+![PXL_20231215_002756230](https://github.com/the0ry/Chaos-Theory/assets/17616022/d98719bd-f1b3-488f-8d1a-2b144011b3b2)
+
 
 Input Shaper Results with LDO Input Shaper Toolkit with the sensor mounted to the Beacon Duct as close to the Nozzle as possible:
 
